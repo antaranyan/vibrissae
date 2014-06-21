@@ -1,8 +1,11 @@
-Whiskers.js
-===========
+# Vibrissae [![Build Status](https://travis-ci.org/decanat/vibrissae.svg)](https://travis-ci.org/decanat/vibrissae)
 
-About
------
+A templating library with Mustache-like syntax based on [Whiskers.](https://github.com/gsf/whiskers.js).
+
+![Vibrissae](http://decanat.github.io/vibrissae/images/path3031.png)
+
+About Whiskers
+--------------
 
 Whiskers is focused on template readability. By limiting template logic, 
 careful preparation of the context is encouraged, and the processing and 
